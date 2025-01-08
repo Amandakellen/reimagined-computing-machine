@@ -1,4 +1,4 @@
-package com.example.contactlist.presentation.view.actions
+package com.example.contactlist.presentation.view.action
 
 import com.example.contactlist.data.SortType
 import com.example.contactlist.domain.model.Contact
